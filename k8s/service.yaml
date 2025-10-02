@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: andomant-service
+spec:
+  selector:
+    app: andomant
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 8080
+  type: ClusterIP

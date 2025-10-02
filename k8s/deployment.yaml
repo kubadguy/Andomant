@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: andomant-deployment
+  labels:
+    app: andomant
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: andomant
+  template:
+    metadata:
+      labels:
+        app: andomant
+    spec:
+      containers:
+      - name: andomant
+        image: andomant:latest
+        ports:
+        - containerPort: 8080
