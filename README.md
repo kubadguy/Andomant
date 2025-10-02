@@ -19,7 +19,7 @@ See the `LICENSE` file for details.
 ## 🛠 Getting Started
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourname/Andomant.git
+   git clone https://github.com/kubadguy/Andomant.git
    cd Andomant
 2. Explore the files:
 
