@@ -1,0 +1,78 @@
+CometSage Public License v1.1
+
+Copyright (c) 2025 Kubadguy
+
+1. Definitions
+
+Software: All source code, object code, documentation, and associated files provided under this license.
+
+You: Any individual or organization exercising rights under this license.
+
+Modified Version: Any work derived from the Software that includes more than 50% modification in code, structure, features, or integration into other projects.
+
+Deploy: To use the Software or a Modified Version internally or as part of a service, private or public, without distributing the source or object code.
+
+2. Permissions
+
+Subject to the conditions below, you are granted worldwide, royalty-free, non-exclusive, non-transferable rights to:
+
+Use the Software for any lawful purpose, personal or organizational.
+
+Modify the Software and create Modified Versions.
+
+Deploy the Software or any Modified Version for internal or service use.
+
+3. Distribution of Modified Versions
+
+You may distribute Modified Versions only if all the following are met:
+
+Open Source Requirement: The complete corresponding source code of the Modified Version must be made publicly available under this license.
+
+Attribution Requirement: Credit the original author(s) and the project name (“Andomant”) in all copies, documentation, and websites.
+
+Name Usage: “Andomant” may be used in Modified Versions with proper attribution; misrepresentation of origin is prohibited.
+
+No Sale: Modified Versions cannot be sold as standalone products but may be used as part of free services.
+
+4. Distribution of Original Version
+
+You may distribute unmodified copies if:
+
+This license text is included.
+
+Proper credit is given.
+
+The Software is not sold as a standalone product.
+
+5. Warranty Disclaimer
+
+THIS SOFTWARE IS PROVIDED “AS IS,” without warranty of any kind, express or implied.
+The author(s) are not liable for any claim, damages, or other liability arising from use of the Software.
+
+6. Termination
+
+Violation of this license terminates your rights immediately. You must cease distribution and deployment of the Software or Modified Versions.
+
+7. Miscellaneous
+
+Governed by the laws of the author’s jurisdiction.
+
+If any provision is unenforceable, remaining provisions remain effective.
+
+Future versions may be published; you may opt to adopt terms of later versions.
+
+Key Changes / Clarifications
+
+“Modification” now explicitly includes:
+
+Code changes
+
+Structural changes (file/folder organization, internal architecture)
+
+Feature additions/removals
+
+Inclusion or integration into other projects
+
+“>50% modification” is measured holistically across these dimensions, not just line count.
+
+Deployment for internal/private use does not require source release, unless >50% modified.

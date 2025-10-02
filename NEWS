@@ -1,0 +1,13 @@
+Andomant - Project News
+-----------------------
+
+v0.1.0 (2025-10-02)
+-------------------
+Hey there, this is the very first version of Andomant and we are just setting things up.  
+
+- Project initialized  
+- Custom license added (CometSage Public License v1.1)  
+- Core language list being defined in LanguageList.md  
+- Development environment: Git Bash on Windows  
+
+Stay tuned for updates as we add features and structure to the Andomant ecosystem!
